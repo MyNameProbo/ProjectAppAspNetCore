@@ -6,11 +6,11 @@
           <div class="row">
             <div class="mb-3 col-md-6 col-lg-4">
               <label class="form-label" for="worker_name">Name</label>
-              <input id="worker_name" name="Name" class="form-control" v-model="worker.Name" maxlength="300" />
+              <input id="worker_name" name="Name" class="form-control" v-model="worker.name" maxlength="300" />
             </div>
             <div class="mb-3 col-md-6 col-lg-4">
               <label class="form-label" for="worker_job">Job</label>
-              <input id="worker_job" name="Job" class="form-control" v-model="worker.Job" maxlength="50" />
+              <input id="worker_job" name="Job" class="form-control" v-model="worker.job" maxlength="50" />
             </div>
             <div class="col-12">
               <router-link class="btn btn-secondary" to="/worker">Cancel</router-link>

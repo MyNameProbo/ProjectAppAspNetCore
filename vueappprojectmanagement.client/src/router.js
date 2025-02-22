@@ -88,7 +88,29 @@ const routes = [
   {
     path: '/workingdelete/:id/',
     component: () => import('./components/WorkingDelete.vue')
+  }
+  ,
+  {
+    path: '/workingline',
+    name: 'workingline',
+    component: () => import('./components/WorkingLineIndex.vue')
   },
+  {
+    path: '/workinglinecreate',
+    component: () => import('./components/WorkingLineCreate.vue')
+  },
+  {
+    path: '/workingline/:id/',
+    component: () => import('./components/WorkingLineDetail.vue')
+  },
+  {
+    path: '/workinglineedit',
+    component: () => import('./components/WorkingLineEdit.vue')
+  },
+  {
+    path: '/workinglinedelete/:id/',
+    component: () => import('./components/WorkingLineDelete.vue')
+  }
 ]
 
 const router = createRouter({

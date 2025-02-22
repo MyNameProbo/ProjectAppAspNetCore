@@ -6,27 +6,27 @@
           <div class="row">
             <div class="mb-3 col-md-6 col-lg-4">
               <label class="form-label" for="project_name">Name</label>
-              <input id="project_name" name="Name" class="form-control" :value="project.Name" maxlength="300" />
+              <input id="project_name" name="Name" class="form-control" :value="project.name" maxlength="300" />
             </div>
             <div class="mb-3 col-md-6 col-lg-4">
               <label class="form-label" for="project_cust">Customer</label>
-              <input id="project_cust" name="Customer" class="form-control" :value="project.Customer" maxlength="50" />
+              <input id="project_cust" name="Customer" class="form-control" :value="project.customer" maxlength="50" />
             </div>
             <div class="mb-3 col-md-6 col-lg-4">
               <label class="form-label" for="project_start">Start date</label>
-              <input id="project_start" name="StartDate" class="form-control" :value="project.StartDate" type="datetime" />
+              <input id="project_start" name="StartDate" class="form-control" :value="project.startDate" type="datetime" />
             </div>
             <div class="mb-3 col-md-6 col-lg-4">
               <label class="form-label" for="project_end">End date</label>
-              <input id="project_end" name="EndDate" class="form-control" :value="project.EndDate" type="datetime" />
+              <input id="project_end" name="EndDate" class="form-control" :value="project.endDate" type="datetime" />
             </div>
             <div class="mb-3 col-md-6 col-lg-4">
               <label class="form-label" for="project_pm">Project manager</label>
-              <input id="project_pm" name="Manager" class="form-control" :value="project.ProjectManager" maxlength="50" />
+              <input id="project_pm" name="Manager" class="form-control" :value="project.projectManager" maxlength="50" />
             </div>            
             <div class="col-12">
               <router-link class="btn btn-secondary" to="/project">Back</router-link>
-              <router-link class="btn btn-primary" :to="/projectedit/${project.ProjectId}"">Edit</router-link>
+              <router-link class="btn btn-primary" :to="'/projectedit/${project.projectId}'">Edit</router-link>
             </div>
           </div>
         </form>

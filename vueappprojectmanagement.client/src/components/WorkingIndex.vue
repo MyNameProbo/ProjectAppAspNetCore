@@ -14,16 +14,16 @@
             </tr>
           </thead>
           <tbody>
-            <tr v-for="project in projects" :key="project">
-              <td class="text-center">{{working.WorkingId}}</td>
-              <td>{{working.Description}}</td>
-              <td class="text-center">{{working.Date}}</td>
-              <td class="text-center">{{working.ProjectId}}</td>
-              <td class="text-center">{{working.WorkerId}}</td>
+            <tr v-for="working in workings" :key="project">
+              <td class="text-center">{{working.workingId}}</td>
+              <td>{{working.description}}</td>
+              <td class="text-center">{{working.date}}</td>
+              <td class="text-center">{{working.projectId}}</td>
+              <td class="text-center">{{working.workerId}}</td>
               <td class="text-center">
-                <router-link class="btn btn-secondary" :to="'/working/${working.WorkingId}'" title="View"><i class="fa fa-eye"></i></router-link>
+                <router-link class="btn btn-secondary" :to="'/working/${working.workingId}'" title="View"><i class="fa fa-eye"></i></router-link>
                 <router-link class="btn btn-primary" :to="'/workingedit'" title="Edit"><i class="fa fa-pencil"></i></router-link>
-                <router-link class="btn btn-danger" :to="'/workingdelete/${working.WorkingId}'" title="Delete"><i class="fa fa-times"></i></router-link>
+                <router-link class="btn btn-danger" :to="'/workingdelete/${working.workingId}'" title="Delete"><i class="fa fa-times"></i></router-link>
               </td>
             </tr>
           </tbody>

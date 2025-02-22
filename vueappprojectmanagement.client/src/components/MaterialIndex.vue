@@ -14,21 +14,21 @@
             </tr>
           </thead>
           <tbody>
-            <tr v-for="project in projects" :key="project">
-              <td class="text-center">{{material.MaterialId}}</td>
-              <td>{{material.Description}}</td>
-              <td class="text-center">{{material.Spec}}</td>
-              <td class="text-center">{{material.Quantity}}</td>
-              <td class="text-center">{{material.Unit}}</td>
+            <tr v-for="material in materials" :key="project">
+              <td class="text-center">{{material.materialId}}</td>
+              <td>{{material.description}}</td>
+              <td class="text-center">{{material.spec}}</td>
+              <td class="text-center">{{material.quantity}}</td>
+              <td class="text-center">{{material.unit}}</td>
               <td class="text-center">
-                <router-link class="btn btn-secondary" :to="'/project/${material.MaterialId}'" title="View"><i class="fa fa-eye"></i></router-link>
-                <router-link class="btn btn-primary" :to="'/projectedit'" title="Edit"><i class="fa fa-pencil"></i></router-link>
-                <router-link class="btn btn-danger" :to="'/projectdelete/${material.MaterialId}'" title="Delete"><i class="fa fa-times"></i></router-link>
+                <router-link class="btn btn-secondary" :to="'/material/${material.materialId}'" title="View"><i class="fa fa-eye"></i></router-link>
+                <router-link class="btn btn-primary" :to="'/materialedit'" title="Edit"><i class="fa fa-pencil"></i></router-link>
+                <router-link class="btn btn-danger" :to="'/materialdelete/${material.materialId}'" title="Delete"><i class="fa fa-times"></i></router-link>
               </td>
             </tr>
           </tbody>
         </table>
-        <router-link class="btn btn-primary" to="/projectcreate">Create</router-link>
+        <router-link class="btn btn-primary" to="/materialcreate">Create</router-link>
       </div>
     </div>
   </div>

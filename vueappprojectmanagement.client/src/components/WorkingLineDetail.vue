@@ -6,19 +6,19 @@
           <div class="row">
             <div class="mb-3 col-md-6 col-lg-4">
               <label class="form-label" for="line_id">Line id</label>
-              <input readonly id="line_id" name="Id" class="form-control" :value="workingline.LineId" type="text" required />
+              <input readonly id="line_id" name="Id" class="form-control" :value="workingline.lineId" type="text" required />
             </div>
             <div class="mb-3 col-md-6 col-lg-4">
               <label class="form-label" for="line_material">Material</label>
-              <input readonly id="line_material" name="Material" class="form-control" :value="workingline.MaterialName" maxlength="50" />
+              <input readonly id="line_material" name="Material" class="form-control" :value="workingline.materialName" maxlength="50" />
             </div>
             <div class="mb-3 col-md-6 col-lg-4">
               <label class="form-label" for="line_qty">Qty</label>
-              <input readonly id="line_qty" name="Qty" class="form-control" :value="workingline.Qty" maxlength="50" />
+              <input readonly id="line_qty" name="Qty" class="form-control" :value="workingline.qty" maxlength="50" />
             </div>            
             <div class="col-12">
-              <router-link class="btn btn-secondary" to="/worker">Back</router-link>
-              <router-link class="btn btn-primary" :to="'/workeredit/${project.ProjectId}'">Edit</router-link>
+              <router-link class="btn btn-secondary" to="/working">Back</router-link>
+              <router-link class="btn btn-primary" :to="'/workinglineedit/${workingline.lineId}'">Edit</router-link>
             </div>
           </div>
         </form>

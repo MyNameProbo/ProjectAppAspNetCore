@@ -6,23 +6,23 @@
           <div class="row">
             <div class="mb-3 col-md-6 col-lg-4">
               <label class="form-label" for="material_desc">Description</label>
-              <input id="material_desc" name="Description" class="form-control" :value="material.Description" maxlength="300" />
+              <input id="material_desc" name="Description" class="form-control" :value="material.description" maxlength="300" />
             </div>
             <div class="mb-3 col-md-6 col-lg-4">
               <label class="form-label" for="material_spec">Specification</label>
-              <input id="material_spec" name="Specification" class="form-control" :value="material.Spec" maxlength="50" />
+              <input id="material_spec" name="Specification" class="form-control" :value="material.spec" maxlength="50" />
             </div>
             <div class="mb-3 col-md-6 col-lg-4">
               <label class="form-label" for="material_qty">Quantity</label>
-              <input id="material_qty" name="Quantity" class="form-control" :value="material.Quantity" maxlength="50" />
+              <input id="material_qty" name="Quantity" class="form-control" :value="material.quantity" maxlength="50" />
             </div>
             <div class="mb-3 col-md-6 col-lg-4">
               <label class="form-label" for="material_unit">Unit</label>
-              <input id="material_unit" name="Unit" class="form-control" :value="material.Unit" maxlength="50" />
+              <input id="material_unit" name="Unit" class="form-control" :value="material.unit" maxlength="50" />
             </div>
             <div class="col-12">
-              <router-link class="btn btn-secondary" to="/project">Back</router-link>
-              <router-link class="btn btn-primary" :to="/projectedit/${material.MaterialId}" ">Edit</router-link>
+              <router-link class="btn btn-secondary" to="/material">Back</router-link>
+              <router-link class="btn btn-primary" :to="/materialedit/${material.materialId}" ">Edit</router-link>
             </div>
           </div>
         </form>

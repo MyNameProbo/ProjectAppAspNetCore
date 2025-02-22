@@ -12,13 +12,13 @@
           </thead>
           <tbody>
             <tr v-for="project in projects" :key="project">
-              <td class="text-center">{{workingline.LineId}}</td>
-              <td>{{workingline.MaterialName}}</td>
-              <td class="text-center">{{workingline.Qty}}</td>
+              <td class="text-center">{{workingline.lineId}}</td>
+              <td>{{workingline.materialName}}</td>
+              <td class="text-center">{{workingline.qty}}</td>
               <td class="text-center">
-                <router-link class="btn btn-secondary" :to="'/working/${workingline.WorkingId}'" title="View"><i class="fa fa-eye"></i></router-link>
+                <router-link class="btn btn-secondary" :to="'/working/${workingline.workingId}'" title="View"><i class="fa fa-eye"></i></router-link>
                 <router-link class="btn btn-primary" :to="'/workingedit'" title="Edit"><i class="fa fa-pencil"></i></router-link>
-                <router-link class="btn btn-danger" :to="'/workingdelete/${workingline.WorkingId}'" title="Delete"><i class="fa fa-times"></i></router-link>
+                <router-link class="btn btn-danger" :to="'/workingdelete/${workingline.workingId}'" title="Delete"><i class="fa fa-times"></i></router-link>
               </td>
             </tr>
           </tbody>
