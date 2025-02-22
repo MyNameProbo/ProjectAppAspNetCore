@@ -1,0 +1,11 @@
+C:\ProboProject\SmartBCI\VueAppProjectManagement\Project.Domain\bin\Debug\net8.0\Project.Domain.deps.json
+C:\ProboProject\SmartBCI\VueAppProjectManagement\Project.Domain\bin\Debug\net8.0\Project.Domain.dll
+C:\ProboProject\SmartBCI\VueAppProjectManagement\Project.Domain\bin\Debug\net8.0\Project.Domain.pdb
+C:\ProboProject\SmartBCI\VueAppProjectManagement\Project.Domain\obj\Debug\net8.0\Project.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProboProject\SmartBCI\VueAppProjectManagement\Project.Domain\obj\Debug\net8.0\Project.Domain.AssemblyInfoInputs.cache
+C:\ProboProject\SmartBCI\VueAppProjectManagement\Project.Domain\obj\Debug\net8.0\Project.Domain.AssemblyInfo.cs
+C:\ProboProject\SmartBCI\VueAppProjectManagement\Project.Domain\obj\Debug\net8.0\Project.Domain.csproj.CoreCompileInputs.cache
+C:\ProboProject\SmartBCI\VueAppProjectManagement\Project.Domain\obj\Debug\net8.0\Project.Domain.dll
+C:\ProboProject\SmartBCI\VueAppProjectManagement\Project.Domain\obj\Debug\net8.0\refint\Project.Domain.dll
+C:\ProboProject\SmartBCI\VueAppProjectManagement\Project.Domain\obj\Debug\net8.0\Project.Domain.pdb
+C:\ProboProject\SmartBCI\VueAppProjectManagement\Project.Domain\obj\Debug\net8.0\ref\Project.Domain.dll

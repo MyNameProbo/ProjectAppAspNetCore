@@ -1,0 +1,415 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|c:\\proboproject\\smartbci\\vueappprojectmanagement\\vueappprojectmanagement.client\\src\\components\\workinglinecreate.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|solutionrelative:vueappprojectmanagement.client\\src\\components\\workinglinecreate.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|c:\\proboproject\\smartbci\\vueappprojectmanagement\\vueappprojectmanagement.client\\src\\components\\workinglinedelete.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|solutionrelative:vueappprojectmanagement.client\\src\\components\\workinglinedelete.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|c:\\proboproject\\smartbci\\vueappprojectmanagement\\vueappprojectmanagement.client\\src\\components\\workinglinedetail.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|solutionrelative:vueappprojectmanagement.client\\src\\components\\workinglinedetail.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|c:\\proboproject\\smartbci\\vueappprojectmanagement\\vueappprojectmanagement.client\\src\\components\\workinglineedit.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|solutionrelative:vueappprojectmanagement.client\\src\\components\\workinglineedit.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|c:\\proboproject\\smartbci\\vueappprojectmanagement\\vueappprojectmanagement.client\\src\\components\\workinglineindex.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|solutionrelative:vueappprojectmanagement.client\\src\\components\\workinglineindex.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|c:\\proboproject\\smartbci\\vueappprojectmanagement\\vueappprojectmanagement.client\\src\\components\\materialindex.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|solutionrelative:vueappprojectmanagement.client\\src\\components\\materialindex.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|c:\\proboproject\\smartbci\\vueappprojectmanagement\\vueappprojectmanagement.client\\src\\components\\materialedit.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|solutionrelative:vueappprojectmanagement.client\\src\\components\\materialedit.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|c:\\proboproject\\smartbci\\vueappprojectmanagement\\vueappprojectmanagement.client\\src\\components\\materialdetail.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|solutionrelative:vueappprojectmanagement.client\\src\\components\\materialdetail.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|c:\\proboproject\\smartbci\\vueappprojectmanagement\\vueappprojectmanagement.client\\src\\components\\materialcreate.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|solutionrelative:vueappprojectmanagement.client\\src\\components\\materialcreate.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|c:\\proboproject\\smartbci\\vueappprojectmanagement\\vueappprojectmanagement.client\\src\\components\\materialdelete.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|solutionrelative:vueappprojectmanagement.client\\src\\components\\materialdelete.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|c:\\proboproject\\smartbci\\vueappprojectmanagement\\vueappprojectmanagement.client\\src\\components\\projectindex.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|solutionrelative:vueappprojectmanagement.client\\src\\components\\projectindex.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|c:\\proboproject\\smartbci\\vueappprojectmanagement\\vueappprojectmanagement.client\\src\\components\\workercreate.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|solutionrelative:vueappprojectmanagement.client\\src\\components\\workercreate.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|c:\\proboproject\\smartbci\\vueappprojectmanagement\\vueappprojectmanagement.client\\src\\components\\workerdelete.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|solutionrelative:vueappprojectmanagement.client\\src\\components\\workerdelete.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|c:\\proboproject\\smartbci\\vueappprojectmanagement\\vueappprojectmanagement.client\\src\\components\\workerdetail.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|solutionrelative:vueappprojectmanagement.client\\src\\components\\workerdetail.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|c:\\proboproject\\smartbci\\vueappprojectmanagement\\vueappprojectmanagement.client\\src\\components\\workeredit.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|solutionrelative:vueappprojectmanagement.client\\src\\components\\workeredit.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|c:\\proboproject\\smartbci\\vueappprojectmanagement\\vueappprojectmanagement.client\\src\\components\\workerindex.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|solutionrelative:vueappprojectmanagement.client\\src\\components\\workerindex.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|c:\\proboproject\\smartbci\\vueappprojectmanagement\\vueappprojectmanagement.client\\src\\components\\workingcreate.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|solutionrelative:vueappprojectmanagement.client\\src\\components\\workingcreate.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|c:\\proboproject\\smartbci\\vueappprojectmanagement\\vueappprojectmanagement.client\\src\\components\\workingdelete.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|solutionrelative:vueappprojectmanagement.client\\src\\components\\workingdelete.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|c:\\proboproject\\smartbci\\vueappprojectmanagement\\vueappprojectmanagement.client\\src\\components\\workingdetail.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|solutionrelative:vueappprojectmanagement.client\\src\\components\\workingdetail.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|c:\\proboproject\\smartbci\\vueappprojectmanagement\\vueappprojectmanagement.client\\src\\components\\workingedit.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|solutionrelative:vueappprojectmanagement.client\\src\\components\\workingedit.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|c:\\proboproject\\smartbci\\vueappprojectmanagement\\vueappprojectmanagement.client\\src\\components\\service.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|solutionrelative:vueappprojectmanagement.client\\src\\components\\service.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|c:\\proboproject\\smartbci\\vueappprojectmanagement\\vueappprojectmanagement.client\\src\\http.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|solutionrelative:vueappprojectmanagement.client\\src\\http.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|c:\\proboproject\\smartbci\\vueappprojectmanagement\\vueappprojectmanagement.client\\src\\router.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{29F94EC1-3A9A-486D-A125-21E68781A8AD}|vueappprojectmanagement.client\\vueappprojectmanagement.client.esproj|solutionrelative:vueappprojectmanagement.client\\src\\router.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkingLineDetail.vue",
+              "DocumentMoniker": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\WorkingLineDetail.vue",
+              "RelativeDocumentMoniker": "vueappprojectmanagement.client\\src\\components\\WorkingLineDetail.vue",
+              "ToolTip": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\WorkingLineDetail.vue",
+              "RelativeToolTip": "vueappprojectmanagement.client\\src\\components\\WorkingLineDetail.vue",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-02-22T02:57:19.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkingLineDelete.vue",
+              "DocumentMoniker": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\WorkingLineDelete.vue",
+              "RelativeDocumentMoniker": "vueappprojectmanagement.client\\src\\components\\WorkingLineDelete.vue",
+              "ToolTip": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\WorkingLineDelete.vue",
+              "RelativeToolTip": "vueappprojectmanagement.client\\src\\components\\WorkingLineDelete.vue",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-02-22T02:54:03.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkingLineCreate.vue",
+              "DocumentMoniker": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\WorkingLineCreate.vue",
+              "RelativeDocumentMoniker": "vueappprojectmanagement.client\\src\\components\\WorkingLineCreate.vue",
+              "ToolTip": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\WorkingLineCreate.vue",
+              "RelativeToolTip": "vueappprojectmanagement.client\\src\\components\\WorkingLineCreate.vue",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-02-22T02:48:56.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkingLineEdit.vue",
+              "DocumentMoniker": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\WorkingLineEdit.vue",
+              "RelativeDocumentMoniker": "vueappprojectmanagement.client\\src\\components\\WorkingLineEdit.vue",
+              "ToolTip": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\WorkingLineEdit.vue",
+              "RelativeToolTip": "vueappprojectmanagement.client\\src\\components\\WorkingLineEdit.vue",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-02-22T03:00:24.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkingLineIndex.vue",
+              "DocumentMoniker": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\WorkingLineIndex.vue",
+              "RelativeDocumentMoniker": "vueappprojectmanagement.client\\src\\components\\WorkingLineIndex.vue",
+              "ToolTip": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\WorkingLineIndex.vue",
+              "RelativeToolTip": "vueappprojectmanagement.client\\src\\components\\WorkingLineIndex.vue",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-02-22T03:02:53.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MaterialIndex.vue",
+              "DocumentMoniker": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\MaterialIndex.vue",
+              "RelativeDocumentMoniker": "vueappprojectmanagement.client\\src\\components\\MaterialIndex.vue",
+              "ToolTip": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\MaterialIndex.vue",
+              "RelativeToolTip": "vueappprojectmanagement.client\\src\\components\\MaterialIndex.vue",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-02-22T03:14:24.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MaterialEdit.vue",
+              "DocumentMoniker": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\MaterialEdit.vue",
+              "RelativeDocumentMoniker": "vueappprojectmanagement.client\\src\\components\\MaterialEdit.vue",
+              "ToolTip": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\MaterialEdit.vue",
+              "RelativeToolTip": "vueappprojectmanagement.client\\src\\components\\MaterialEdit.vue",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-02-22T03:14:18.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MaterialDetail.vue",
+              "DocumentMoniker": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\MaterialDetail.vue",
+              "RelativeDocumentMoniker": "vueappprojectmanagement.client\\src\\components\\MaterialDetail.vue",
+              "ToolTip": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\MaterialDetail.vue",
+              "RelativeToolTip": "vueappprojectmanagement.client\\src\\components\\MaterialDetail.vue",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-02-22T03:14:11.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MaterialCreate.vue",
+              "DocumentMoniker": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\MaterialCreate.vue",
+              "RelativeDocumentMoniker": "vueappprojectmanagement.client\\src\\components\\MaterialCreate.vue",
+              "ToolTip": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\MaterialCreate.vue",
+              "RelativeToolTip": "vueappprojectmanagement.client\\src\\components\\MaterialCreate.vue",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-02-22T03:13:51.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MaterialDelete.vue",
+              "DocumentMoniker": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\MaterialDelete.vue",
+              "RelativeDocumentMoniker": "vueappprojectmanagement.client\\src\\components\\MaterialDelete.vue",
+              "ToolTip": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\MaterialDelete.vue",
+              "RelativeToolTip": "vueappprojectmanagement.client\\src\\components\\MaterialDelete.vue",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-02-22T03:14:04.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProjectIndex.vue",
+              "DocumentMoniker": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\ProjectIndex.vue",
+              "RelativeDocumentMoniker": "vueappprojectmanagement.client\\src\\components\\ProjectIndex.vue",
+              "ToolTip": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\ProjectIndex.vue",
+              "RelativeToolTip": "vueappprojectmanagement.client\\src\\components\\ProjectIndex.vue",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-02-22T03:21:32.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WorkerDelete.vue",
+              "DocumentMoniker": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\WorkerDelete.vue",
+              "RelativeDocumentMoniker": "vueappprojectmanagement.client\\src\\components\\WorkerDelete.vue",
+              "ToolTip": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\WorkerDelete.vue",
+              "RelativeToolTip": "vueappprojectmanagement.client\\src\\components\\WorkerDelete.vue",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-02-22T03:14:55.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WorkerDetail.vue",
+              "DocumentMoniker": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\WorkerDetail.vue",
+              "RelativeDocumentMoniker": "vueappprojectmanagement.client\\src\\components\\WorkerDetail.vue",
+              "ToolTip": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\WorkerDetail.vue",
+              "RelativeToolTip": "vueappprojectmanagement.client\\src\\components\\WorkerDetail.vue",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-02-22T03:15:31.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WorkerEdit.vue",
+              "DocumentMoniker": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\WorkerEdit.vue",
+              "RelativeDocumentMoniker": "vueappprojectmanagement.client\\src\\components\\WorkerEdit.vue",
+              "ToolTip": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\WorkerEdit.vue",
+              "RelativeToolTip": "vueappprojectmanagement.client\\src\\components\\WorkerEdit.vue",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-02-22T03:15:38.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WorkerCreate.vue",
+              "DocumentMoniker": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\WorkerCreate.vue",
+              "RelativeDocumentMoniker": "vueappprojectmanagement.client\\src\\components\\WorkerCreate.vue",
+              "ToolTip": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\WorkerCreate.vue",
+              "RelativeToolTip": "vueappprojectmanagement.client\\src\\components\\WorkerCreate.vue",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-02-22T03:14:47.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WorkerIndex.vue",
+              "DocumentMoniker": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\WorkerIndex.vue",
+              "RelativeDocumentMoniker": "vueappprojectmanagement.client\\src\\components\\WorkerIndex.vue",
+              "ToolTip": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\WorkerIndex.vue",
+              "RelativeToolTip": "vueappprojectmanagement.client\\src\\components\\WorkerIndex.vue",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-02-22T03:15:50.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WorkingCreate.vue",
+              "DocumentMoniker": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\WorkingCreate.vue",
+              "RelativeDocumentMoniker": "vueappprojectmanagement.client\\src\\components\\WorkingCreate.vue",
+              "ToolTip": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\WorkingCreate.vue",
+              "RelativeToolTip": "vueappprojectmanagement.client\\src\\components\\WorkingCreate.vue",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-02-22T03:18:27.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WorkingDelete.vue",
+              "DocumentMoniker": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\WorkingDelete.vue",
+              "RelativeDocumentMoniker": "vueappprojectmanagement.client\\src\\components\\WorkingDelete.vue",
+              "ToolTip": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\WorkingDelete.vue",
+              "RelativeToolTip": "vueappprojectmanagement.client\\src\\components\\WorkingDelete.vue",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-02-22T03:18:59.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WorkingDetail.vue",
+              "DocumentMoniker": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\WorkingDetail.vue",
+              "RelativeDocumentMoniker": "vueappprojectmanagement.client\\src\\components\\WorkingDetail.vue",
+              "ToolTip": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\WorkingDetail.vue",
+              "RelativeToolTip": "vueappprojectmanagement.client\\src\\components\\WorkingDetail.vue",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAC8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-02-22T03:19:41.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WorkingEdit.vue",
+              "DocumentMoniker": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\WorkingEdit.vue",
+              "RelativeDocumentMoniker": "vueappprojectmanagement.client\\src\\components\\WorkingEdit.vue",
+              "ToolTip": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\WorkingEdit.vue",
+              "RelativeToolTip": "vueappprojectmanagement.client\\src\\components\\WorkingEdit.vue",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-02-22T03:20:08.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Service.js",
+              "DocumentMoniker": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\Service.js",
+              "RelativeDocumentMoniker": "vueappprojectmanagement.client\\src\\components\\Service.js",
+              "ToolTip": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\components\\Service.js",
+              "RelativeToolTip": "vueappprojectmanagement.client\\src\\components\\Service.js",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAAwKEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-22T03:06:50.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "http.js",
+              "DocumentMoniker": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\http.js",
+              "RelativeDocumentMoniker": "vueappprojectmanagement.client\\src\\http.js",
+              "ToolTip": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\http.js",
+              "RelativeToolTip": "vueappprojectmanagement.client\\src\\http.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-22T03:06:46.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "router.js",
+              "DocumentMoniker": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\router.js",
+              "RelativeDocumentMoniker": "vueappprojectmanagement.client\\src\\router.js",
+              "ToolTip": "C:\\ProboProject\\SmartBCI\\VueAppProjectManagement\\vueappprojectmanagement.client\\src\\router.js",
+              "RelativeToolTip": "vueappprojectmanagement.client\\src\\router.js",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAwFYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-22T03:05:08.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
